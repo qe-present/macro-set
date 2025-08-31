@@ -25,3 +25,8 @@ ai——deepseek,grok——出题,询问一下。
 ```shell
 git add .;git commit -m '自动提交';git push;
 ```
+
+# 环境
+- rustrover
+- cargo 1.86
+- nushell
